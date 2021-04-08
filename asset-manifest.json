@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/akshara/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/akshara/static/js/main.fe2302ab.chunk.js",
+    "main.js.map": "/akshara/static/js/main.fe2302ab.chunk.js.map",
+    "runtime-main.js": "/akshara/static/js/runtime-main.ab1390e8.js",
+    "runtime-main.js.map": "/akshara/static/js/runtime-main.ab1390e8.js.map",
+    "static/js/2.d2b4c4af.chunk.js": "/akshara/static/js/2.d2b4c4af.chunk.js",
+    "static/js/2.d2b4c4af.chunk.js.map": "/akshara/static/js/2.d2b4c4af.chunk.js.map",
+    "static/js/3.4ef8cfb5.chunk.js": "/akshara/static/js/3.4ef8cfb5.chunk.js",
+    "static/js/3.4ef8cfb5.chunk.js.map": "/akshara/static/js/3.4ef8cfb5.chunk.js.map",
+    "index.html": "/akshara/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/akshara/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d2b4c4af.chunk.js.LICENSE.txt": "/akshara/static/js/2.d2b4c4af.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/akshara/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab1390e8.js",
+    "static/js/2.d2b4c4af.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.fe2302ab.chunk.js"
+  ]
+}
