@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/akshara/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/akshara/static/js/main.fe2302ab.chunk.js",
-    "main.js.map": "/akshara/static/js/main.fe2302ab.chunk.js.map",
-    "runtime-main.js": "/akshara/static/js/runtime-main.ab1390e8.js",
-    "runtime-main.js.map": "/akshara/static/js/runtime-main.ab1390e8.js.map",
-    "static/js/2.d2b4c4af.chunk.js": "/akshara/static/js/2.d2b4c4af.chunk.js",
-    "static/js/2.d2b4c4af.chunk.js.map": "/akshara/static/js/2.d2b4c4af.chunk.js.map",
-    "static/js/3.4ef8cfb5.chunk.js": "/akshara/static/js/3.4ef8cfb5.chunk.js",
-    "static/js/3.4ef8cfb5.chunk.js.map": "/akshara/static/js/3.4ef8cfb5.chunk.js.map",
-    "index.html": "/akshara/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/akshara/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d2b4c4af.chunk.js.LICENSE.txt": "/akshara/static/js/2.d2b4c4af.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/akshara/static/media/logo.6ce24c58.svg"
+    "main.css": "/follow/static/css/main.fd9e4859.chunk.css",
+    "main.js": "/follow/static/js/main.c69bdace.chunk.js",
+    "main.js.map": "/follow/static/js/main.c69bdace.chunk.js.map",
+    "runtime-main.js": "/follow/static/js/runtime-main.ee2cf3a2.js",
+    "runtime-main.js.map": "/follow/static/js/runtime-main.ee2cf3a2.js.map",
+    "static/css/2.0c49218d.chunk.css": "/follow/static/css/2.0c49218d.chunk.css",
+    "static/js/2.7a500ddc.chunk.js": "/follow/static/js/2.7a500ddc.chunk.js",
+    "static/js/2.7a500ddc.chunk.js.map": "/follow/static/js/2.7a500ddc.chunk.js.map",
+    "static/js/3.aaf1c1b6.chunk.js": "/follow/static/js/3.aaf1c1b6.chunk.js",
+    "static/js/3.aaf1c1b6.chunk.js.map": "/follow/static/js/3.aaf1c1b6.chunk.js.map",
+    "index.html": "/follow/index.html",
+    "static/css/2.0c49218d.chunk.css.map": "/follow/static/css/2.0c49218d.chunk.css.map",
+    "static/css/main.fd9e4859.chunk.css.map": "/follow/static/css/main.fd9e4859.chunk.css.map",
+    "static/js/2.7a500ddc.chunk.js.LICENSE.txt": "/follow/static/js/2.7a500ddc.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/follow/static/media/arrow_right.0897f985.svg",
+    "static/media/all.min.css": "/follow/static/media/fa-solid-900.efbd5d20.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab1390e8.js",
-    "static/js/2.d2b4c4af.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.fe2302ab.chunk.js"
+    "static/js/runtime-main.ee2cf3a2.js",
+    "static/css/2.0c49218d.chunk.css",
+    "static/js/2.7a500ddc.chunk.js",
+    "static/css/main.fd9e4859.chunk.css",
+    "static/js/main.c69bdace.chunk.js"
   ]
 }
